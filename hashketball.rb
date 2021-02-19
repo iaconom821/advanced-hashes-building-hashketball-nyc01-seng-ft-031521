@@ -4,7 +4,11 @@ require 'pry'
 
 def game_hash
   the_game = {
-    home: {},
+    home: {
+      team_name: = '',
+      colors: = [],
+      players: = []
+    },
     away: {},
   }
 end
