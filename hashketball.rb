@@ -38,7 +38,7 @@ def game_hash
         blocks: 1,
         slam_dunks: 15
       }, {
-        player_name: 'Mason Plumless',
+        player_name: 'Mason Plumlee',
         number: 1,
         shoe: 19,
         points: 26,
