@@ -72,7 +72,7 @@ def game_hash
         steals: 0,
         blocks: 0,
         slam_dunks: 0
-      }]
+      }, ]
     },
   }
 end
